@@ -19,7 +19,7 @@ import { MARKERS } from "..";
 const styles = (theme: Theme) =>
 	createStyles({
 		header: {
-			padding: "20px 70px"
+			// padding: "20px 70px"
 		},
 		headerItem: {
 			flex: 1,
